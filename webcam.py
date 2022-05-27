@@ -1,4 +1,4 @@
-import cv2 
+import cv2     #cv2 you must install
 # inicialization WEbc
 cap = cv2.VideoCapture(0)  
 
