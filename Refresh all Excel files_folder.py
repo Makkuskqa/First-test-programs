@@ -5,7 +5,7 @@ from pathlib import Path
 
 xlapp = win32com.client.DispatchEx("Excel.Application")
 
-directory = "C:/Users/m.shevchuk/Desktop/BI Events Retention/Bi unique players"
+directory = "C:/Users/***/Pass folder way"
 
 pathlist = Path(directory).glob('*.xlsx')
 
